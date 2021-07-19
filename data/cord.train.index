@@ -1,0 +1,14 @@
+gs://neo-datasets/cord19_records/cord19_0_3_50000.tfrecords
+gs://neo-datasets/cord19_records/cord19_0_9204.tfrecords
+gs://neo-datasets/cord19_records/cord19_2_3_50000.tfrecords
+gs://neo-datasets/cord19_records/cord19_3_4_50000.tfrecords
+gs://neo-datasets/cord19_records/cord19_0_13264.tfrecords
+gs://neo-datasets/cord19_records/cord19_0_4_50000.tfrecords
+gs://neo-datasets/cord19_records/cord19_1_3_50000.tfrecords
+gs://neo-datasets/cord19_records/cord19_2_4_50000.tfrecords
+gs://neo-datasets/cord19_records/cord19_4_4_50000.tfrecords
+gs://neo-datasets/cord19_records/cord19_0_39578.tfrecords
+gs://neo-datasets/cord19_records/cord19_0_8271.tfrecords
+gs://neo-datasets/cord19_records/cord19_1_4_50000.tfrecords
+gs://neo-datasets/cord19_records/cord19_3_24481.tfrecords
+gs://neo-datasets/cord19_records/cord19_5_4379.tfrecords
